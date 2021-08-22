@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommonAppsMeCore", "CommonA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilingMeApp.WPF", "FilingMeApp.WPF\FilingMeApp.WPF.csproj", "{1C45E0C4-FC15-4C78-B799-D8265142908F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonAppCore.Hashes", "..\..\..\CommonAppsCoreMeProjects\00\CommonAppsCoreMeProjectsSolution\CommonAppCore.Hashes\CommonAppCore.Hashes.csproj", "{1F567A9A-1E11-46C5-8C4E-ED4CEE075932}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,9 +31,16 @@ Global
 		{1C45E0C4-FC15-4C78-B799-D8265142908F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C45E0C4-FC15-4C78-B799-D8265142908F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C45E0C4-FC15-4C78-B799-D8265142908F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F567A9A-1E11-46C5-8C4E-ED4CEE075932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F567A9A-1E11-46C5-8C4E-ED4CEE075932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F567A9A-1E11-46C5-8C4E-ED4CEE075932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F567A9A-1E11-46C5-8C4E-ED4CEE075932}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1F567A9A-1E11-46C5-8C4E-ED4CEE075932} = {F2A28B3C-76ED-4650-BB40-1AE87A2A8825}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AB395FEA-1DD4-44CF-80F0-7FCA52B21D96}

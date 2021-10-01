@@ -1,0 +1,58 @@
+﻿<UserControl x:Class="Mawa.FileMe.WPF.ImportFile_UserControlWPF"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Mawa.FileMe.WPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="400">
+
+    <Grid
+        x:Name="Staue_Grid"
+        Background="red"
+        Margin="2">
+        <Grid
+            Background="#EDF1FE"
+            Margin="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+
+            <Label 
+                Grid.Column="0" 
+                VerticalContentAlignment="Center"
+                Content="Import File : " 
+                HorizontalAlignment="Center"  
+                VerticalAlignment="Center" 
+                Margin="2" 
+                Width="auto" 
+                Height="auto"/>
+
+            <TextBox 
+                TextChanged="TextBox_TextChanged"
+                Padding="3"
+                HorizontalContentAlignment="Center"
+                VerticalContentAlignment="Center"
+                Grid.Column="1"  
+                Margin="3" 
+                TextWrapping="Wrap"
+                Text="{Binding FileInfoCtrl.FilePath,Mode=OneWay}"
+                VerticalAlignment="Center" 
+                Height="auto" />
+            
+            <Button 
+                Click="Import_btn_Click"
+                Grid.Column="2"
+                Content="import" 
+                HorizontalAlignment="Center" 
+                Margin="5" 
+                VerticalAlignment="Center" 
+                Width="82"
+                Height="30"/>
+
+        </Grid>
+    </Grid>
+
+</UserControl>

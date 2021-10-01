@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxVItu+YFN5rw2GtDG0bRk4oVSCmONc6znvQkFFzpwey0GFke1nPfmZkYkZzfJG+196hTnw1OOVr+VWVYPnxrQ==",
+  "success": true,
+  "projectFilePath": "D:\\TempDeskTop\\proj\\MyLibraries\\.Net\\mawa libs\\FileMeProject\\00\\FileMeSolution\\Mawa.FileMe\\Mawa.FileMe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CPBLK\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CPBLK\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

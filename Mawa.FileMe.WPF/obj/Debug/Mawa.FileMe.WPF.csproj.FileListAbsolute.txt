@@ -1,10 +1,3 @@
-D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\Mawa.FileMe.WPF.csprojAssemblyReference.cache
-D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\WPFUI\FilingInfo_UserControlWPF.g.cs
-D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\WPFUI\ImportFile_UserControlWPF.g.cs
-D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\WPFUI\ImportingFileInfo_WindowWPF.g.cs
-D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
-D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\Mawa.FileMe.WPF_MarkupCompile.cache
-D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\Mawa.FileMe.WPF_MarkupCompile.lref
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\bin\Debug\Mawa.FileMe.WPF.dll
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\bin\Debug\Mawa.FileMe.WPF.pdb
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\bin\Debug\Microsoft.Win32.Primitives.dll
@@ -107,6 +100,13 @@ D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\M
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\bin\Debug\Mawa.Hash.dll
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\bin\Debug\Mawa.FileMe.pdb
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\bin\Debug\Mawa.Hash.pdb
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\Mawa.FileMe.WPF.csproj.AssemblyReference.cache
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\WPFUI\FilingInfo_UserControlWPF.g.cs
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\WPFUI\ImportFile_UserControlWPF.g.cs
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\WPFUI\ImportingFileInfo_WindowWPF.g.cs
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\Mawa.FileMe.WPF_MarkupCompile.cache
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\Mawa.FileMe.WPF_MarkupCompile.lref
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\WPFUI\FilingInfo_UserControlWPF.baml
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\WPFUI\ImportFile_UserControlWPF.baml
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\WPFUI\ImportingFileInfo_WindowWPF.baml

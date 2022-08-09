@@ -1,12 +1,12 @@
-D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.csprojAssemblyReference.cache
-D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.AssemblyInfoInputs.cache
-D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.AssemblyInfo.cs
-D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.csproj.CoreCompileInputs.cache
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\bin\Debug\netstandard2.0\Mawa.FileMe.deps.json
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\bin\Debug\netstandard2.0\Mawa.FileMe.dll
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\bin\Debug\netstandard2.0\Mawa.FileMe.pdb
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\bin\Debug\netstandard2.0\Mawa.Hash.dll
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\bin\Debug\netstandard2.0\Mawa.Hash.pdb
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.GeneratedMSBuildEditorConfig.editorconfig
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.AssemblyInfoInputs.cache
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.AssemblyInfo.cs
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.csproj.CoreCompileInputs.cache
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.csproj.CopyComplete
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.dll
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.pdb

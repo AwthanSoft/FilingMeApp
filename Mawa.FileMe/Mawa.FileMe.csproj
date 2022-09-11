@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>22.9.7</Version>
+    <Authors>AwthanSoft</Authors>
+    <Product>Mawa FileMe</Product>
+    <Copyright>© 2021-2022 AwthanSoft</Copyright>
+    <RepositoryUrl>https://github.com/AwthanSoft/Mawa-FileMe</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <AssemblyVersion>22.9.7.1</AssemblyVersion>
+    <FileVersion>22.9.7.1</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>

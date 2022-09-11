@@ -5,7 +5,7 @@
   },
   "projects": {
     "D:\\TempDeskTop\\proj\\MyLibraries\\.Net\\mawa libs\\FileMeProject\\00\\FileMeSolution\\Mawa.FileMe\\Mawa.FileMe.csproj": {
-      "version": "1.0.0",
+      "version": "22.9.7",
       "restore": {
         "projectUniqueName": "D:\\TempDeskTop\\proj\\MyLibraries\\.Net\\mawa libs\\FileMeProject\\00\\FileMeSolution\\Mawa.FileMe\\Mawa.FileMe.csproj",
         "projectName": "Mawa.FileMe",
@@ -73,7 +73,7 @@
       }
     },
     "D:\\TempDeskTop\\proj\\MyLibraries\\.Net\\mawa libs\\HashProject\\00\\HashSolution\\Mawa.Hash\\Mawa.Hash.csproj": {
-      "version": "1.0.0",
+      "version": "22.9.7",
       "restore": {
         "projectUniqueName": "D:\\TempDeskTop\\proj\\MyLibraries\\.Net\\mawa libs\\HashProject\\00\\HashSolution\\Mawa.Hash\\Mawa.Hash.csproj",
         "projectName": "Mawa.Hash",

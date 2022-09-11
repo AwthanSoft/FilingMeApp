@@ -26,7 +26,7 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Mawa.Hash/1.0.0": {
+      "Mawa.Hash/22.9.7": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -183,7 +183,7 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Mawa.Hash/1.0.0": {
+    "Mawa.Hash/22.9.7": {
       "type": "project",
       "path": "../../../../HashProject/00/HashSolution/Mawa.Hash/Mawa.Hash.csproj",
       "msbuildProject": "../../../../HashProject/00/HashSolution/Mawa.Hash/Mawa.Hash.csproj"
@@ -191,7 +191,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Mawa.Hash >= 1.0.0",
+      "Mawa.Hash >= 22.9.7",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -202,7 +202,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "22.9.7",
     "restore": {
       "projectUniqueName": "D:\\TempDeskTop\\proj\\MyLibraries\\.Net\\mawa libs\\FileMeProject\\00\\FileMeSolution\\Mawa.FileMe\\Mawa.FileMe.csproj",
       "projectName": "Mawa.FileMe",

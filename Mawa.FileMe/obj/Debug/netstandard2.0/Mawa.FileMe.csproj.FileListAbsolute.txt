@@ -3,6 +3,7 @@ D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\M
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\bin\Debug\netstandard2.0\Mawa.FileMe.pdb
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\bin\Debug\netstandard2.0\Mawa.Hash.dll
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\bin\Debug\netstandard2.0\Mawa.Hash.pdb
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.csproj.AssemblyReference.cache
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.GeneratedMSBuildEditorConfig.editorconfig
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.AssemblyInfoInputs.cache
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Debug\netstandard2.0\Mawa.FileMe.AssemblyInfo.cs

@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = Mawa.FileMe
 build_property.ProjectDir = D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

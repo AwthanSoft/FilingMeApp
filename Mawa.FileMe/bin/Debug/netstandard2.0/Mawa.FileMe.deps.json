@@ -9,7 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "Mawa.FileMe/22.9.7": {
         "dependencies": {
-          "Mawa.Hash": "22.9.7",
+          "Mawa.Hash": "24.3.20",
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
@@ -22,7 +22,7 @@
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
       },
-      "Mawa.Hash/22.9.7": {
+      "Mawa.Hash/24.3.20": {
         "runtime": {
           "Mawa.Hash.dll": {}
         }
@@ -49,7 +49,7 @@
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
-    "Mawa.Hash/22.9.7": {
+    "Mawa.Hash/24.3.20": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

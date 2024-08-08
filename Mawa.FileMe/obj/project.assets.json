@@ -26,7 +26,7 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Mawa.Hash/22.9.7": {
+      "Mawa.Hash/24.3.20": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -183,7 +183,7 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Mawa.Hash/22.9.7": {
+    "Mawa.Hash/24.3.20": {
       "type": "project",
       "path": "../../../../HashProject/00/HashSolution/Mawa.Hash/Mawa.Hash.csproj",
       "msbuildProject": "../../../../HashProject/00/HashSolution/Mawa.Hash/Mawa.Hash.csproj"
@@ -191,12 +191,13 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Mawa.Hash >= 22.9.7",
+      "Mawa.Hash >= 24.3.20",
       "NETStandard.Library >= 2.0.3"
     ]
   },
   "packageFolders": {
     "C:\\Users\\CPBLK\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
@@ -211,12 +212,14 @@
       "outputPath": "D:\\TempDeskTop\\proj\\MyLibraries\\.Net\\mawa libs\\FileMeProject\\00\\FileMeSolution\\Mawa.FileMe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\CPBLK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -226,6 +229,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://nuget.org/api/v2/": {}
       },
       "frameworks": {
@@ -242,6 +247,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -261,11 +271,12 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

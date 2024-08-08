@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("© 2021-2022 AwthanSoft")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("22.9.7.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("22.9.7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("22.9.7+0a86c9880e3c27564ae37061802fe4d856412834")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mawa FileMe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mawa.FileMe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("22.9.7.1")]

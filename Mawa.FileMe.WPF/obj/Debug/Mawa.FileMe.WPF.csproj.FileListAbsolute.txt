@@ -114,6 +114,6 @@ D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\M
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\Mawa.FileMe.WPF.Properties.Resources.resources
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\Mawa.FileMe.WPF.csproj.GenerateResource.cache
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\Mawa.FileMe.WPF.csproj.CoreCompileInputs.cache
-D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\Mawa.FileMe.WPF.csproj.CopyComplete
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\Mawa.Fil.8E8FCF4B.Up2Date
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\Mawa.FileMe.WPF.dll
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe.WPF\obj\Debug\Mawa.FileMe.WPF.pdb

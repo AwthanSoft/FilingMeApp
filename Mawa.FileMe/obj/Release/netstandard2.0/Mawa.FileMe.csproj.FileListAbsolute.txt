@@ -8,6 +8,7 @@ D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\M
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Release\netstandard2.0\Mawa.FileMe.AssemblyInfoInputs.cache
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Release\netstandard2.0\Mawa.FileMe.AssemblyInfo.cs
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Release\netstandard2.0\Mawa.FileMe.csproj.CoreCompileInputs.cache
-D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Release\netstandard2.0\Mawa.FileMe.csproj.CopyComplete
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Release\netstandard2.0\Mawa.FileMe.sourcelink.json
+D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Release\netstandard2.0\Mawa.Fil.6EEE4894.Up2Date
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Release\netstandard2.0\Mawa.FileMe.dll
 D:\TempDeskTop\proj\MyLibraries\.Net\mawa libs\FileMeProject\00\FileMeSolution\Mawa.FileMe\obj\Release\netstandard2.0\Mawa.FileMe.pdb

@@ -25,16 +25,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "Mawa.Hash/24.3.20": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Mawa.Hash.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Mawa.Hash.dll": {}
-        }
       }
     }
   },
@@ -182,16 +172,10 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "Mawa.Hash/24.3.20": {
-      "type": "project",
-      "path": "../../../../HashProject/00/HashSolution/Mawa.Hash/Mawa.Hash.csproj",
-      "msbuildProject": "../../../../HashProject/00/HashSolution/Mawa.Hash/Mawa.Hash.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Mawa.Hash >= 24.3.20",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -236,11 +220,7 @@
       "frameworks": {
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
-          "projectReferences": {
-            "D:\\TempDeskTop\\proj\\MyLibraries\\.Net\\mawa libs\\HashProject\\00\\HashSolution\\Mawa.Hash\\Mawa.Hash.csproj": {
-              "projectPath": "D:\\TempDeskTop\\proj\\MyLibraries\\.Net\\mawa libs\\HashProject\\00\\HashSolution\\Mawa.Hash\\Mawa.Hash.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -276,7 +256,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -16,8 +16,4 @@
     <Folder Include="Core\" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\..\HashProject\00\HashSolution\Mawa.Hash\Mawa.Hash.csproj" />
-  </ItemGroup>
-
 </Project>
